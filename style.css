@@ -1,0 +1,41 @@
+body {
+  background-color: rgb(132, 139, 133);
+  color: black;
+  font-family: "Times New Roman", Times, serif;
+  text-align: center;
+  padding: 50px;
+}
+
+h1 {
+  font-size: 2.5em;
+  margin-bottom: 20px;
+}
+
+p {
+  font-size: 1.2em;
+}
+
+input {
+  font-size: 1.2em;
+  padding: 5px 10px;
+  border-radius: 15px;
+  border: 1px solid gray;
+}
+
+button {
+  background-color: rgb(93, 34, 148);
+  color: white;
+  border: none;
+  padding: 10px 40px;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-left: 10px;
+}
+
+#message {
+  font-size: 1.5em;
+  color: aqua;
+  font-weight: bold;
+  margin-top: 20px;
+  padding: 20px;
+}
